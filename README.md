@@ -11,7 +11,8 @@
 ابتدا دیسکورس را طبق آموزش سایت سازنده نصب کنید، سپس کد زیر را در ترمینال اجرا کنید:
 
 [آموزش نصب برای توسعه دهندگان](https://meta.discourse.org/t/beginners-guide-to-install-discourse-on-ubuntu-for-development/14727)
-```mkdir ~/discourse-jalali && git clone https://github.com/l3est/discourse-jalali.git ~/discourse-jalali
+```
+mkdir ~/discourse-jalali && git clone https://github.com/l3est/discourse-jalali.git ~/discourse-jalali
 cp ~/discourse-jalali/app/assets/javascripts/discourse/components/date-picker.js.es6 ~/discourse/app/assets/javascripts/discourse/components/date-picker.js.es6
 cp ~/discourse-jalali/app/assets/javascripts/discourse/helpers/period-title.js.es6 ~/discourse/app/assets/javascripts/discourse/helpers/period-title.js.es6
 cp ~/discourse-jalali/app/assets/javascripts/discourse/lib/formatter.js.es6 ~/discourse/app/assets/javascripts/discourse/lib/formatter.js.es6
