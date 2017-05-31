@@ -20,5 +20,6 @@ cp ~/discourse-jalali/app/assets/stylesheets/vendor/pikaday.scss ~/discourse/app
 cp ~/discourse-jalali/config/locales/client.fa_IR.yml ~/discourse/config/locales/client.fa_IR.yml
 cp ~/discourse-jalali/config/locales/server.fa_IR.yml ~/discourse/config/locales/server.fa_IR.yml
 cp ~/discourse-jalali/lib/javascripts/moment.js ~/discourse/lib/javascripts/moment.js
+cp ~/discourse-jalali/public/javascripts/pikaday.js ~/discourse/public/javascripts/pikaday.js
 rm -fr ~/discourse-jalali
 ```
