@@ -22,5 +22,6 @@ cp ~/discourse-jalali/config/locales/server.fa_IR.yml ~/discourse/config/locales
 cp ~/discourse-jalali/lib/javascripts/moment.js ~/discourse/lib/javascripts/moment.js
 cp ~/discourse-jalali/public/javascripts/pikaday.js ~/discourse/public/javascripts/pikaday.js
 cp ~/discourse-jalali/app/assets/javascripts/discourse/widgets/topic-timeline.js.es6 cp ~/discourse/app/assets/javascripts/discourse/widgets/topic-timeline.js.es6
+cp ~/discourse-jalali/app/assets/javascripts/admin/controllers/admin-dashboard.js.es6 ~/discourse/app/assets/javascripts/admin/controllers/admin-dashboard.js.es6
 rm -fr ~/discourse-jalali
 ```
