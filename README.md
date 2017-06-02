@@ -17,8 +17,6 @@ cp ~/discourse-jalali/app/assets/javascripts/discourse/components/date-picker.js
 cp ~/discourse-jalali/app/assets/javascripts/discourse/helpers/period-title.js.es6 ~/discourse/app/assets/javascripts/discourse/helpers/period-title.js.es6
 cp ~/discourse-jalali/app/assets/javascripts/discourse/lib/formatter.js.es6 ~/discourse/app/assets/javascripts/discourse/lib/formatter.js.es6
 cp ~/discourse-jalali/app/assets/stylesheets/vendor/pikaday.scss ~/discourse/app/assets/stylesheets/vendor/pikaday.scss
-cp ~/discourse-jalali/config/locales/client.fa_IR.yml ~/discourse/config/locales/client.fa_IR.yml
-cp ~/discourse-jalali/config/locales/server.fa_IR.yml ~/discourse/config/locales/server.fa_IR.yml
 cp ~/discourse-jalali/lib/javascripts/moment.js ~/discourse/lib/javascripts/moment.js
 cp ~/discourse-jalali/public/javascripts/pikaday.js ~/discourse/public/javascripts/pikaday.js
 cp ~/discourse-jalali/app/assets/javascripts/discourse/widgets/topic-timeline.js.es6 cp ~/discourse/app/assets/javascripts/discourse/widgets/topic-timeline.js.es6
