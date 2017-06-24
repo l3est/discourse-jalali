@@ -23,5 +23,6 @@ cp ~/discourse-jalali/app/assets/javascripts/discourse/widgets/topic-timeline.js
 cp ~/discourse-jalali/app/assets/javascripts/admin/controllers/admin-dashboard.js.es6 ~/discourse/app/assets/javascripts/admin/controllers/admin-dashboard.js.es6
 cp ~/discourse-jalali/config/locales/client.fa_IR.yml ~/discourse/config/locales/client.fa_IR.yml
 cp ~/discourse-jalali/config/locales/server.fa_IR.yml ~/discourse/config/locales/server.fa_IR.yml
+cp ~/discourse-jalali/app/assets/javascripts/discourse/components/auto-update-input-selector.js.es6 ~/discourse/app/assets/javascripts/discourse/components/auto-update-input-selector.js.es6
 rm -fr ~/discourse-jalali
 ```
