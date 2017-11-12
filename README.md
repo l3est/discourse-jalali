@@ -26,3 +26,7 @@ cp ~/discourse-jalali/config/locales/server.fa_IR.yml ~/discourse/config/locales
 cp ~/discourse-jalali/app/assets/javascripts/discourse/components/auto-update-input-selector.js.es6 ~/discourse/app/assets/javascripts/discourse/components/auto-update-input-selector.js.es6
 rm -fr ~/discourse-jalali
 ```
+
+<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/1m3U1mQiHUxQpnaqip7CsFdb/l3est/discourse-jalali'>
+  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/1m3U1mQiHUxQpnaqip7CsFdb/l3est/discourse-jalali.svg' />
+</a>
