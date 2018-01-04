@@ -27,6 +27,4 @@ cp ~/discourse-jalali/app/assets/javascripts/discourse/components/auto-update-in
 rm -fr ~/discourse-jalali
 ```
 
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/1m3U1mQiHUxQpnaqip7CsFdb/l3est/discourse-jalali'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/1m3U1mQiHUxQpnaqip7CsFdb/l3est/discourse-jalali.svg' />
-</a>
+
